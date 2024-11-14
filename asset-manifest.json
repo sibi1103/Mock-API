@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sibiananthArborgold2024UIDeveloperRound2/static/css/main.0e6ecb9d.css",
+    "main.js": "/sibiananthArborgold2024UIDeveloperRound2/static/js/main.8a05efdf.js",
+    "static/js/453.d340e9f6.chunk.js": "/sibiananthArborgold2024UIDeveloperRound2/static/js/453.d340e9f6.chunk.js",
+    "index.html": "/sibiananthArborgold2024UIDeveloperRound2/index.html",
+    "main.0e6ecb9d.css.map": "/sibiananthArborgold2024UIDeveloperRound2/static/css/main.0e6ecb9d.css.map",
+    "main.8a05efdf.js.map": "/sibiananthArborgold2024UIDeveloperRound2/static/js/main.8a05efdf.js.map",
+    "453.d340e9f6.chunk.js.map": "/sibiananthArborgold2024UIDeveloperRound2/static/js/453.d340e9f6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e6ecb9d.css",
+    "static/js/main.8a05efdf.js"
+  ]
+}

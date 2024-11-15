@@ -25,5 +25,5 @@ yarn-error.log*
 git init
 git add .
 git commit -m "Initial commit"
-git remote add origin https://github.com/sibi1103/sibiananthArborgold2024UIDeveloperRound2.git
+git remote add origin https://github.com/sibi1103/Mock-API.git
 git push -u origin main

@@ -3,7 +3,7 @@
 A simple React application that fetches and displays data from a mock API. This project is designed to demonstrate the integration of API data with a React frontend.
 
 ### 🌐 Live Demo
-View the Application
+View the Application : [Live Site](https://sibi1103.github.io/Mock-API/)
 
 ### 📁 Project Structure
 The project consists of the following major components:

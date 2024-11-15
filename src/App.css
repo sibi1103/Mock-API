@@ -30,7 +30,7 @@ body {
   border-radius: 15px;
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
   text-align: center;
-  background: linear-gradient(135deg, #6dfaac, #29b941); 
+  background: linear-gradient(135deg, #5fa4e6, #58c2ec);
   color: #ffffff;
   transition: transform 0.3s, box-shadow 0.3s;
 }

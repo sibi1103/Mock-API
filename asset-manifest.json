@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Mock-API/static/css/main.0e6ecb9d.css",
+    "main.css": "/Mock-API/static/css/main.8079abd5.css",
     "main.js": "/Mock-API/static/js/main.5093c99c.js",
     "static/js/453.d340e9f6.chunk.js": "/Mock-API/static/js/453.d340e9f6.chunk.js",
     "index.html": "/Mock-API/index.html",
-    "main.0e6ecb9d.css.map": "/Mock-API/static/css/main.0e6ecb9d.css.map",
+    "main.8079abd5.css.map": "/Mock-API/static/css/main.8079abd5.css.map",
     "main.5093c99c.js.map": "/Mock-API/static/js/main.5093c99c.js.map",
     "453.d340e9f6.chunk.js.map": "/Mock-API/static/js/453.d340e9f6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0e6ecb9d.css",
+    "static/css/main.8079abd5.css",
     "static/js/main.5093c99c.js"
   ]
 }

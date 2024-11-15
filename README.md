@@ -28,34 +28,6 @@ Lightweight and fast-loading with React.
 ### Deployment:
  GitHub Pages
 
-# 📦 Installation and Usage
-
-### Prerequisites
-Node.js and npm installed.
-
-### Steps to Run Locally
-
-### Clone the repository:
-git clone [](https://github.com/sibi1103/Mock-API.git)
-
-Navigate to the project directory:
-### cd Mock-API
-
-Install dependencies:
-### npm install
-
-Start the development server:
-### npm start
-
-Open your browser and visit: [](http://localhost:3000)
-
-### 🌟 Contributing
-
-Contributions are welcome! If you have any suggestions or find any issues, feel free to open an issue or create a pull request.
-
-### 📄 License
-This project is licensed under the MIT License.
-
 ## ✨ Key Features
 ### 📇 Displays Contact Information:
  Presents each contact's details in a clean, card layout.
@@ -85,3 +57,24 @@ Renders individual contact information within a card.
 ContactDirectory fetches contact data from the mock API upon mounting.
 
 Render Data: The fetched data is passed to ContactCard components to display individual contact details.
+
+# 📦 Installation and Usage
+
+### Prerequisites
+Node.js and npm installed.
+
+### Steps to Run Locally
+
+### Clone the repository:
+git clone [clone](https://github.com/sibi1103/Mock-API.git)
+
+Navigate to the project directory:
+### cd Mock-API
+
+Install dependencies:
+### npm install
+
+Start the development server:
+### npm start
+
+Open your browser and visit: [http://localhost:3000](http://localhost:3000)

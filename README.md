@@ -1,46 +1,87 @@
-# Getting Started with Create React App
+# Mock API Application
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A simple React application that fetches and displays data from a mock API. This project is designed to demonstrate the integration of API data with a React frontend.
 
-## Available Scripts
+### 🌐 Live Demo
+View the Application
 
-In the project directory, you can run:
+### 📁 Project Structure
+The project consists of the following major components:
 
-### `npm start`
+### API Integration:
+ Fetches data from a mock API.
+### Data Display: 
+Dynamically displays fetched data in a user-friendly interface.
+### Responsive Design:
+ Ensures the application looks good on all devices.
+ 
+### 🚀 Features
+Fetches data using a mock API.
+Displays the fetched data in a structured layout.
+Lightweight and fast-loading with React.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### 🛠️ Tools and Technologies
+### Frontend:
+ React.js, JavaScript
+### Styling:
+ CSS (or any specific framework if used)
+### Deployment:
+ GitHub Pages
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+# 📦 Installation and Usage
 
-### `npm test`
+### Prerequisites
+Node.js and npm installed.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Steps to Run Locally
 
-### `npm run build`
+### Clone the repository:
+git clone [](https://github.com/sibi1103/Mock-API.git)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Navigate to the project directory:
+### cd Mock-API
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Install dependencies:
+### npm install
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Start the development server:
+### npm start
 
-### `npm run eject`
+Open your browser and visit: [](http://localhost:3000)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+### 🌟 Contributing
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Contributions are welcome! If you have any suggestions or find any issues, feel free to open an issue or create a pull request.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+### 📄 License
+This project is licensed under the MIT License.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## ✨ Key Features
+### 📇 Displays Contact Information:
+ Presents each contact's details in a clean, card layout.
+### 📱 Responsive Design: 
+Optimized for all screen sizes with a user-friendly interface.
+### ⚡ Mock API Integration: 
+Utilizes a mock API to simulate data fetching for testing purposes.
 
-## Learn More
+## 🛠️ Technologies Used
+### ⚛️ React:
+ JavaScript library for building UI components.
+### 🎨 CSS:
+ Styles for cards and layout.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 📂 Application Structure
+### 📦 Components ContactCard: 
+Renders individual contact information within a card.
+### ContactDirectory:
+ Fetches and maps contact data into multiple ContactCard components.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 🔧 Services
+### apiService:
+ Uses axios.get() to fetch contact data from the mock API URL.
+
+## 🔄 Data Flow
+### Fetch Data: 
+ContactDirectory fetches contact data from the mock API upon mounting.
+
+Render Data: The fetched data is passed to ContactCard components to display individual contact details.
